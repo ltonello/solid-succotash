@@ -2,6 +2,4 @@
 
 echo "Hello, World!"
 
-change again
-
-and again
+change
